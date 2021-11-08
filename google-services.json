@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502561807795",
+    "project_id": "testfcm-ed4af",
+    "storage_bucket": "testfcm-ed4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502561807795:android:5a9ab6031628d63053bfc6",
+        "android_client_info": {
+          "package_name": "io.ionic.testFCM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502561807795-79hbm2de2l218hjkfk6nnm2pg4nb1uvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6Z0vvy6cIW8qiY7oZVL6xMD6roZ_I-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502561807795-79hbm2de2l218hjkfk6nnm2pg4nb1uvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
